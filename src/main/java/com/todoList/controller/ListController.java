@@ -1,4 +1,4 @@
-package com.example.todoList.controller;
+package com.todoList.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
